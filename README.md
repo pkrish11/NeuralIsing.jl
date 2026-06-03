@@ -1,8 +1,6 @@
 # NN based MCMC updates for 2D Ising Model
 
-**FinalProject.jl** is a modular Julia framework for experimenting with Monte Carlo sampling of 2D lattice spin systems, using neural newtork based updates. 
-
- [ Please excuse my very poor choice of name for the package, unfortunately I did not realize this fatal mistake until I completely finished my project, and did not have enough time (before the deadline) to change this everywhere in the code :(   ]
+**NeuralIsing.jl** is a modular Julia framework for experimenting with Monte Carlo sampling of 2D lattice spin systems, using neural newtork based updates. 
 
 ---
 
